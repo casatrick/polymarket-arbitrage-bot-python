@@ -10,7 +10,7 @@ A **Polymarket arbitrage bot** is an automated trading system that scans Polymar
 
 This document covers how each strategy works, how signals are scored, and how to configure the bot's parameters.
 
-**For strategy consulting or purchase inquiries, contact me at:** `[add your contact info here]`
+**For strategy consulting or purchase inquiries, contact me at Telegram:** `[@casatrick](https://t.me/casatrick)`
 
 ---
 
