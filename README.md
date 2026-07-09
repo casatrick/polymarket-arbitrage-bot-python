@@ -122,9 +122,9 @@ This strategy tracks Polymarket YES/NO prices as a time series and applies stand
 ### Entry Conditions
 
 **Mean Reversion Buy (Oversold):**
-- Z-score below −threshold
+- Z-score below -threshold
 - RSI < 35
-- Rate of change > −0.5%
+- Rate of change > -0.5%
 - Action: buy YES (expect reversion upward)
 
 **Mean Reversion Sell (Overbought):**
