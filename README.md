@@ -10,7 +10,7 @@ A **Polymarket arbitrage bot** is an automated trading system that scans Polymar
 
 This document covers how each strategy works, how signals are scored, and how to configure the bot's parameters.
 
-**For strategy consulting or purchase inquiries, contact me at Telegram:** `[@casatrick](https://t.me/casatrick)`
+**For strategy consulting or purchase inquiries, contact me at Telegram:** [@casatrick](https://t.me/casatrick)
 
 ---
 
@@ -297,4 +297,4 @@ Crypto prediction markets for BTC, ETH, XRP, and SOL, across all five strategies
 
 ---
 
-*Interested in strategy consulting or licensing this Polymarket arbitrage bot? Contact at Telegram: `[@casatrick](https://t.me/casatrick)`*
+*Interested in strategy consulting or licensing this Polymarket arbitrage bot? Contact at Telegram: [@casatrick](https://t.me/casatrick)*
