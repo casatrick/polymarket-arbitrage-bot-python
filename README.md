@@ -152,7 +152,7 @@ Each timeframe has its own parameter set in `MomentumConfig`:
 
 ## How Signal Ranking Works
 
-The `StrategyAggregator` scores every signal (0.0–1.0) using a weighted composite:
+The `StrategyAggregator` scores every signal (0.0-1.0) using a weighted composite:
 
 ```
 score = (profit_score        × 0.30) +
@@ -165,7 +165,7 @@ score = (profit_score        × 0.30) +
 | Component | Description |
 |---|---|
 | `profit_score` | Expected profit % ÷ 10 (capped at 1.0) |
-| `confidence_score` | Signal confidence (0.0–1.0) |
+| `confidence_score` | Signal confidence (0.0-1.0) |
 | `strategy_priority` | Strategy-type weight (see below) |
 | `urgency_score` | HIGH = 1.0, MEDIUM = 0.67, LOW = 0.33 |
 | `risk_reward_score` | Risk/reward ratio × 5 (capped at 1.0) |
