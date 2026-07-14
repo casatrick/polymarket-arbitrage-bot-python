@@ -297,4 +297,4 @@ Crypto prediction markets for BTC, ETH, XRP, and SOL, across all five strategies
 
 ---
 
-*Interested in strategy consulting or licensing this Polymarket arbitrage bot? Contact at Telegram: [@casatrick](https://t.me/casatrick)*
+*Interested in strategy consulting or licensing this Polymarket arbitrage bot? Contact at Telegram: [@casatrick](https://telegram.me/casatrick)*
