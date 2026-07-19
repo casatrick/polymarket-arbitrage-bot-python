@@ -1,5 +1,7 @@
 # Polymarket Arbitrage Bot: 5 Trading Strategies Explained
 
+https://github.com/user-attachments/assets/55df2f87-2aaa-4778-b726-05d759995e84
+
 **A complete breakdown of the five arbitrage strategies used by this Polymarket arbitrage bot** - covering intra-market arbitrage, combinatorial arbitrage, cross-platform arbitrage, endgame arbitrage, and momentum/mean-reversion trading across 5-minute, 15-minute, and 1-hour timeframes.
 
 ## now working on **market making bot**
