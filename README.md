@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/a85d94c6-0f45-414b-8f49-70f44c4cb85e
 
 A **Polymarket arbitrage bot** is an automated trading system that scans Polymarket's prediction markets for pricing inefficiencies and executes trades to capture the resulting spread. This bot runs **five distinct arbitrage and trading strategies** in parallel, each targeting a different type of market inefficiency, then ranks and executes the highest-quality signals automatically.
 
-This document covers how each strategy works, how signals are scored, and how to configure the bot's parameters.
+This document covers how each strategy works, how signals are scored, and how to configure the bot's params.
 
 **For strategy consulting or purchase inquiries, contact me at Telegram:** [@casatrick](https://telegram.me/casatrick)
 
